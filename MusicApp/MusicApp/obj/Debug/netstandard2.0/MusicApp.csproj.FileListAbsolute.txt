@@ -1,0 +1,14 @@
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.deps.json
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.dll
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\ref\MusicApp.dll
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\bin\Debug\netstandard2.0\MusicApp.pdb
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\PlayerPage.xaml.g.cs
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.AssemblyInfoInputs.cache
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.AssemblyInfo.cs
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\XamlC.stamp
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.dll
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\ref\MusicApp.dll
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.pdb
+G:\courses\xamarin\Some Projects\Play-Audio-in-Xamarin-Forms-master\MusicApp\MusicApp\obj\Debug\netstandard2.0\MusicApp.csprojAssemblyReference.cache
